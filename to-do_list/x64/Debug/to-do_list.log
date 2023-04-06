@@ -1,2 +1,3 @@
 ﻿  to-do_list.cpp
+P:\Студенты\П22\python\Dunin\c++\to-do_list\to-do_list\to-do_list.cpp(145,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
   to-do_list.vcxproj -> P:\Студенты\П22\python\Dunin\c++\to-do_list\x64\Debug\to-do_list.exe
